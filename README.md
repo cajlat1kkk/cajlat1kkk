@@ -56,19 +56,6 @@
 ⭐ **[Все мои проекты](https://github.com/cajlat1kkk?tab=repositories)**<div align="center">
 
 
-
-
-
-## 📊 Моя активность на GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cajlat1kkk&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=ru" alt="Статистика GitHub" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cajlat1kkk&layout=compact&theme=github_dark&hide_border=true&locale=ru" alt="Наиболее используемые языки" />
-
-</div>
-
 ---
 
 
